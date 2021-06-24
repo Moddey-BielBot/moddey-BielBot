@@ -9,7 +9,7 @@
 ## Clone esse projeto
 
 ```bash
-> git clonehttps://github.com/Moddey-BielBot/moddey-BielBot.git
+> git clone https://github.com/Moddey-BielBot/moddey-BielBot.git
 ```
 
 ## Instale o BOT:
@@ -20,7 +20,7 @@
 > pkg install ffmpeg
 > pkg install wget
 > pkg install nodejs
-> git clonehttps://github.com/Moddey-BielBot/moddey-BielBot.git
+> git clone https://github.com/Moddey-BielBot/moddey-BielBot.git
 > cd Moddey-BielBot
 > bash install.sh
 ```
