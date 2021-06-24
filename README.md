@@ -3,7 +3,7 @@
 <a href="#"><img title="WHATSAPP DEV" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<  A   href = " https://github.com/admcauss-alt "  >  <  img   título = "Autor"   src = " https://img.shields.io/badge/Author-CAU-red.svg?style= for-the-badge & logo = github "  >  </ MODDEY>
+<       A        href = " https://github.com/      > <img título ="   Autor   "src ="    https://img.shields.io/badge/Author-CAU-red.svg?style =    para-o-   badge    &    logo = github    "> </ MODDEY>
 </p>
 
 ## Clone esse projeto
