@@ -12,7 +12,7 @@
 > git clone https://github.com/Moddey-BielBot/moddey-BielBot.git
 ```
 
-## Instale o BOT:
+## Instale o BOT Moddey:
 
 ```bash
 > termux-setup-storage
